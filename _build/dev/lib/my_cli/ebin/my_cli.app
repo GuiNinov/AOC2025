@@ -1,0 +1,1 @@
+{application,my_cli,[{modules,['Elixir.Aoc']},{optional_applications,[]},{applications,[kernel,stdlib,elixir]},{description,"my_cli"},{registered,[]},{vsn,"0.1.0"}]}.
