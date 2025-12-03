@@ -30,6 +30,7 @@ defmodule Aoc do
     case day do
       1 -> Day1
       2 -> Day2
+      3 -> Day3
       _ -> raise "Day #{day} not implemented yet"
     end
   end
