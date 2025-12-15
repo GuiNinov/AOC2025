@@ -33,6 +33,7 @@ defmodule Aoc do
       3 -> Day3
       4 -> Day4
       5 -> Day5
+      6 -> Day6
       _ -> raise "Day #{day} not implemented yet"
     end
   end
